@@ -1,0 +1,12 @@
+
+
+Creating content for children, especially the “big kids”, kids between 6-10 who are not little but are also not tweens, is difficult. Children in that age want to build independence and want to be treated as if they are mature and intelligent. At the same time, children in that age groups can have huge variances in their skills…for example, at 6 it is very normal for children not to read fluently. At the same time, it’s not very out of the ordinary for a 6 year old to be reading small chapter books without much help. Your educational content must be varied and accessible, but a child is only really going to care about that if they are attracted to your site in the first place.
+
+Brainpop \(they use Brainpop Jr in his class\) is a favorite of my son’s so I chose to analyze it to understand why it appeals to him more now than some of the other learning apps/websites he used to love. The first thing I noticed about the website is the colors. Though it is colorful, Brainpop Jr. focuses on earth tones rather than the bright primary or neon colors featured in sites for preschoolers. The graphics are in a very simplified but very bold 2D representations of people and other objects. While they do use humor to and sometimes a friendly robot to help with concepts, there are no colorful puppets or animals to explain subjects. When they use the robot, it’s usually the “person” teaching rather than the other way around. The site features teaching tools for math, science, reading, coding, and health and each subject uses accurate but age appropriate visuals. They are able to make some things like the digestive system less visually shocking to look at for a child while explaining it simply and factually.
+
+![](/assets/gitbook1.JPG)
+
+
+
+
+
