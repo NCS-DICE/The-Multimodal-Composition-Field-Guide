@@ -4,3 +4,7 @@ Brainpop is a favorite of my son’s so I chose to analyze it to understand why 
 
 ![](/assets/gitbook1.JPG)
 
+Most of the visual content is delivered in video format, which is probably most attractive to kids coming to the website. It also makes it easily accessible…difficult concepts like computer programming or the Civil Rights Movement could be confusing and cumbersome for kids who can’t read fluently. A video allows them to get an overview of the information in a visually stimulating format. The video also contains an audio component that can help children with certain visual impairments, and closed captions for children with hearing impairments. Additionally, for any child who can’t or does not want to watch a video, there are also transcripts available.
+
+![](/assets/gitbook2.JPG)
+
