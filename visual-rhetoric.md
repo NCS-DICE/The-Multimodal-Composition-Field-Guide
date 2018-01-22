@@ -10,13 +10,13 @@ Most of the visual content is delivered in video format, which is probably most 
 
 ![](/assets/gitbook2.JPG)
 
-
-
 It’s also important to use visual to break down educational content into easy-to-swallow pieces, to make it easier to listen to and remember. When each subject is paired with something visual, it seems more interested and attractive to kids \(especially modern kids who are pretty used to large amount of visual stimulation on a daily basis, you really have to catch their eye\). For instance, a course on Digital Citizenship probably seems uninteresting to the average 7 year old at first, but break it down like this and:
 
 ![](/assets/gitbook3.JPG)
 
- Digital Citizenship looks accessible and interesting. Kids can take it at their own pace and learn about what is most relevent to them
+Digital Citizenship looks accessible and interesting. Kids can take it at their own pace and learn about what is most relevant to them.
+
+What I really thought about during this analysis is that there are ways to subtly communicate things to kids about what is “right” for their age group with things like color and art. It’s something I never thought about before about children’s materials. They are really “marketed” certain things visually \(bright colors! Cutesy animals! Goofy voices!\) from the time they are little, but there comes an age where they want to reject that “littleness”. By changing up a few of these visual cues Brainpop is able to communicate that this website is for “big kids” without ever coming out and saying it.
 
 
 
