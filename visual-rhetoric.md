@@ -1,5 +1,7 @@
 **Multimodal Education: How Visual Media And Color Sets BrainPop Apart From Other Educational Sites**
 
+
+
 Multimodal composition has been an important part of childhood education forever. It’s important for children to learn have different tactile, visual, audio, and other sensory experiences to pair with reading, writing, and math. Now more than ever, teachers and parents use more digital content for education. These digital tools are also multimodal, and like non-digital learning materials they have to appeal to certain age and development groups. When creating digital content, it can be hard to find that right balance of kid friendly, informative, and easy to use.
 
 Creating content for children, especially the “big kids”, kids between 6-10 who are not little but are also not tweens, can be especially difficult. Children in that age want to build independence and want to be treated as if they are mature and intelligent. At the same time, children in that age groups can have huge variances in their skills…for example, at 6 it is very normal for children not to read fluently. At the same time, it’s not very out of the ordinary for a 6 year old to be reading small chapter books without much help. Your educational content must be varied and accessible, but a child is only really going to care about that if they are attracted to your site in the first place.
