@@ -12,7 +12,7 @@
 * Emily's example
 
 <script type="text/javascript">
-alert("Hello world);
+document.onload.alert("Hello world);
 </script>
 
 ## Visual Rhetoric
