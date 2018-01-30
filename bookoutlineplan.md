@@ -51,6 +51,6 @@
 
 ## References
 
-{% modalYoutube %}https://www.youtube.com/embed/lpkRFHSpvGI My video{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/watch?v=lpkRFHSpvGI My video{% endmodalYoutube %}
 
 
