@@ -11,6 +11,10 @@
 * Jeff's example
 * Emily's example
 
+<script type="text/javascript">
+alert("Hello world);
+</script>
+
 ## Visual Rhetoric
 * Define visual rhetoric, how it works & summarize work
 * Marisol's example
