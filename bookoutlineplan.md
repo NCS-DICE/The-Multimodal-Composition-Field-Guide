@@ -2,10 +2,22 @@
 
 # Sections
 ## Introduction
-* Paragraph defining MMC
-* Our Goals/Statement of Purpose
+* Paragraph defining MMC *Marisol*
+* Our Goals / Statement of Purpose *Jeff*
+* Context of the book / setup chapters *Emily*
 
-## Visual
+## Examples of MMC
+* Marisol's example
+* Jeff's example
+* Emily's example
+
+## Visual Rhetoric
+* Define visual rhetoric
+    
 ## Sound
+
 ## Video
+
 ## Digital
+
+## References
