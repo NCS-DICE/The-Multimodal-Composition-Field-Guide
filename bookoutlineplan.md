@@ -51,6 +51,4 @@
 
 ## References
 
-{% modalYoutube %}https://www.youtube.com/watch?v=lpkRFHSpvGI My video{% endmodalYoutube %}
-
-
+{{ https://www.youtube.com/watch?v=lpkRFHSpvGI | video }}
