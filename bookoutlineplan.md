@@ -50,3 +50,8 @@
 ## Licensing and Rights in Digital and MM Composition
 
 ## References
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lpkRFHSpvGI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
