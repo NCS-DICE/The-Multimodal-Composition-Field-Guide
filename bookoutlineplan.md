@@ -51,7 +51,6 @@
 
 ## References
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lpkRFHSpvGI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% modalYoutube %}https://www.youtube.com/embed/lpkRFHSpvGI My video{% endmodalYoutube %}
 
 
