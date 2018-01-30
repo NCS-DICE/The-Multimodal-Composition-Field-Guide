@@ -51,4 +51,4 @@
 
 ## References
 
-{{ https://www.youtube.com/watch?v=lpkRFHSpvGI | video }}
+{{ 'https://www.youtube.com/watch?v=lpkRFHSpvGI' | video }}
