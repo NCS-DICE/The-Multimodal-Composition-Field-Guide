@@ -38,6 +38,10 @@ For a moment I stop to read the instructions on the screen that remind me of my 
 
 The interactivity with visual images to tell the story help to create motion and movement. The combination of animation, sounds, human voice, and interaction design makes the story’s content expressive and it comes alive on the screen. At the end of my journey with Angeline, she shows me that I’ve become a part of the story and helping to preserve her Grandmother’s language. The map of the world at the end shows how I played my part in saving the endangered indigenous language. [Grandmother’s Lingo ](https://www.sbs.com.au/mygrandmotherslingo/)interactive design helped me cross cultural boundaries and build empathy with Angelina’s story and equipped with a better understanding of her Aboriginal language and culture.
 
+
+
+
+
 **Modern Day Valentine: Connect With The Things You Heart**
 
 [![](/assets/Connect with the ones you love.png)](https://www.canva.com/design/DACupb-P_Ys/Qb8E6jTO9_kK7cjIDuD0Rw/view?utm_content=DACupb-P_Ys&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
