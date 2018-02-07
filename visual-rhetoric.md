@@ -38,23 +38,17 @@ For a moment I stop to read the instructions on the screen that remind me of my 
 
 The interactivity with visual images to tell the story help to create motion and movement. The combination of animation, sounds, human voice, and interaction design makes the story’s content expressive and it comes alive on the screen. At the end of my journey with Angeline, she shows me that I’ve become a part of the story and helping to preserve her Grandmother’s language. The map of the world at the end shows how I played my part in saving the endangered indigenous language. [Grandmother’s Lingo ](https://www.sbs.com.au/mygrandmotherslingo/)interactive design helped me cross cultural boundaries and build empathy with Angelina’s story and equipped with a better understanding of her Aboriginal language and culture.
 
-
-
-
-
 **Modern Day Valentine: Connect With The Things You Heart**
-
-
 
 [![](/assets/Connect with the ones you love.png)](https://www.canva.com/design/DACupb-P_Ys/Qb8E6jTO9_kK7cjIDuD0Rw/view?utm_content=DACupb-P_Ys&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-When you log into social media, do you see who you love? If you were able to look through ever add that was targeted to you, every article you've read, and every post you've interacted with, what would it tell you about who you "heart"? Mine might tell me I "heart" NPR, dog videos, and memes more than any of the actual people I'm friends with on Facebook. 
+When you log into social media, do you see who you love? If you were able to look through ever add that was targeted to you, every article you've read, and every post you've interacted with, what would it tell you about who you "heart"? Mine might tell me I "heart" NPR, dog videos, and memes more than any of the actual people I'm friends with on Facebook.
 
-For my visual rhetoric piece, I wanted to focus on the theme of connection and social media. I decided to make a Valentine in honor of the upcoming holiday, and I wanted it to reflect what I engage with on a daily basis. These are partly things I choose to engage with, and partly what Facebook decides is best for me. Recently, it has been in the news that Facebook is once again changing their algorithm to encourage more "connection" between people, the ones we "love". Posts for business pages/news websites/clickbait/etc. will not be prioritized by this new algorithm and instead it will prioritize the people on your friend's list. I decided to take a look at my own Facebook feed to analyze what what I am connecting with when I scroll through.
+For my visual rhetoric piece, I wanted to focus on the theme of connection and social media. I decided to make a Valentine in honor of the upcoming holiday, and I wanted it to reflect what I engage with on a daily basis. These are partly things I choose to engage with, and partly what Facebook decides is best for me. Recently, it has been in the news that Facebook is once again changing their algorithm to encourage more "connection" between people, the ones we "love". Posts for business pages/news websites/clickbait/etc. will not be prioritized by this new algorithm and instead it will prioritize the people on your friend's list. I decided to take a look at my own Facebook feed to analyze what I am connecting with when I scroll through.
 
 While I do often see personal posts from friends and family, I'm also barraged with posts that are not personal at all. In fact, I large share of my social media feed is advertisements, articles, videos, memes, images, etc. that are shared by pages or other individuals. Sometimes my friends/family don't even have to share them for me to see them...they just simply have to "like" them. Also, a lot of times what I see on my feed is jumbled and random. There are posts about celebrities next to news stories about war, stories of crime and violence sitting above videos of baby animals. It's overwhelming, disjointing, contradictory, and doesn't really give me a feeling of real connection to the world at all. When I look back at my activity log, most of my engagement goes toward these random posts rather than people I know.
 
-When collecting the images for my visual, I decided to do the "ABCs" of my social media to get a variety of images. As I scrolled through, I filled in a type of "post" I saw for every single letter. Here is what I came up with:
+When collecting the images for my visual, I decided to do the "ABCs" of my Facebook feed to get a variety of images. As I scrolled through, I filled in a type of "post" I saw for every single letter. Here is what I came up with:
 
 A- Animals
 
@@ -70,7 +64,7 @@ F- Fashion
 
 G- Global Warming
 
-H- Health Care 
+H- Health Care
 
 I- Immigration
 
@@ -80,13 +74,13 @@ K- Kardashians
 
 L- Life Hacks
 
-M- Minimalism 
+M- Minimalism
 
 N- New Year, New You!
 
 O- Obama
 
-P- Politics 
+P- Politics
 
 Q- Quotes \(inspirational\)
 
