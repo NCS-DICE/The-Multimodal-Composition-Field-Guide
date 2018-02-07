@@ -1,7 +1,5 @@
 **Multimodal Education: How Visual Media And Color Sets BrainPop Apart From Other Educational Sites**
 
-
-
 Multimodal composition has been an important part of childhood education forever. It’s important for children to learn have different tactile, visual, audio, and other sensory experiences to pair with reading, writing, and math. Now more than ever, teachers and parents use more digital content for education. These digital tools are also multimodal, and like non-digital learning materials they have to appeal to certain age and development groups. When creating digital content, it can be hard to find that right balance of kid friendly, informative, and easy to use.
 
 Creating content for children, especially the “big kids”, kids between 6-10 who are not little but are also not tweens, can be especially difficult. Children in that age want to build independence and want to be treated as if they are mature and intelligent. At the same time, children in that age groups can have huge variances in their skills…for example, at 6 it is very normal for children not to read fluently. At the same time, it’s not very out of the ordinary for a 6 year old to be reading small chapter books without much help. Your educational content must be varied and accessible, but a child is only really going to care about that if they are attracted to your site in the first place.
@@ -39,4 +37,18 @@ Just before the audience begins the interactive digital story, statistics are us
 For a moment I stop to read the instructions on the screen that remind me of my presence in the story. The words of encouragement say, “Unlock FIVE WORDS and help keep the language alive. Ready?”. Excited to learn the next word, I follow the instructions and continue my mission to learn Marra. A crow flies in front of my screen and leads me to the next chapter. I begin to hear sounds of crickets chirping in the background and see images of homes and symbolic representations of people. Angeline quietly whispers, “my language…it’s dying, you know” as if it were a secret that I needed to help her share. The story continues to move along and I learn more about the Marra language and Aboriginal culture.
 
 The interactivity with visual images to tell the story help to create motion and movement. The combination of animation, sounds, human voice, and interaction design makes the story’s content expressive and it comes alive on the screen. At the end of my journey with Angeline, she shows me that I’ve become a part of the story and helping to preserve her Grandmother’s language. The map of the world at the end shows how I played my part in saving the endangered indigenous language. [Grandmother’s Lingo ](https://www.sbs.com.au/mygrandmotherslingo/)interactive design helped me cross cultural boundaries and build empathy with Angelina’s story and equipped with a better understanding of her Aboriginal language and culture.
+
+
+
+**Be My Valentine: Connect With The Ones You Love**
+
+
+
+For my visual rhetoric piece, I wanted to focus on the theme of "connection" and social media. Recently, it has been in the news that Facebook is once again changing their algorithm to encourage more "connection" between people. Posts for business pages/news websites/clickbait/etc. will not be prioritized by this new algorithm and instead it will prioritize the people on your friend's list. I decided to take a look at my own social media accounts \(Facebook and Instagram\) to analyze what what I was connecting with. Am I really "connecting" with the ones I love on social media?
+
+While I do often see personal posts from friends and family, I'm also barraged with posts that are not personal at all. In fact, I large share of my social media feed is advertisements, articles, videos, memes, images, etc. that are shared by pages or other individuals. Sometimes my friends/family don't even have to share them for me to see them...they just simply have to "like" them.
+
+
+
+
 
