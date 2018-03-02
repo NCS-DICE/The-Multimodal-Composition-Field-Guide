@@ -1,0 +1,2 @@
+#Conclusion
+<!--Three hundred to five hundred words discussing Multimodal Composition. Think of this as a way to leave yourself or the reader with a "so what" after having read this book. Why should we care about MMC? What are some things to keep in mind? -->
