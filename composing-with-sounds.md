@@ -2,7 +2,7 @@
 ##Introduction
 <!-- This section should be an overview of what the modality of sounds is and why the multimodal composer should be concerned with them. -->
 ##Marisol:
-<!-- Marisol should revise her sound rhetoric section into this area here -->
+
 ##Jeff:
 <!-- Jeff should revise his sound rhetoric section into this area here -->
 ##Emily:
