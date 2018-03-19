@@ -2,6 +2,10 @@
 ##Introduction
 <!-- This section should be an overview of what the modality of still images is and why the multimodal composer should be concerned with them. -->
 ##Emily:
+
+![](/assets/Connect with the ones you love.png)
+
+
 <!-- Emily should revise her visual rhetoric section into this area here -->
 ##Marisol:
 <!-- Marisol should revise her visual rhetoric section into this area here -->
