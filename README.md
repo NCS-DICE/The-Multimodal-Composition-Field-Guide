@@ -15,3 +15,7 @@ _Developed and Maintained by Seattle University students in_ [Digital Technology
 ###Marisol
 ###Jeff
 ###Emily
+
+Emily is a coffee chugging, animal loving, wannabe superhero/librarian. She lives in the Seattle suburbs with her kid, her dog, and her secret stash of freezer candy.
+
+
