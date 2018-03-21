@@ -1,6 +1,6 @@
 # **Aural Rhetoric**
 
-{{‘"https://www.youtube.com/embed/JG5OsfOuEy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen"| video }}
+{{"https://www.youtube.com/embed/JG5OsfOuEy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen"| video }}
 
 ```
 
