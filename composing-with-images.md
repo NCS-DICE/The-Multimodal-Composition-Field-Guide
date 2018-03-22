@@ -62,5 +62,5 @@ What I learned was...my social media is definitely a smattering of randomness th
 <!--Add a section on best practices here. -->
 ##Conclusion
 
-After reading this Chapter, we hope the reader will have a better understanding of the importance of images as a mode of composition. There is a reason the phrase "A picture is worth 1000 words" exists in our culture: because even without text, a picture communicates with a viewer and can elicit an emotional response as well.  
+After reading this Chapter, we hope the reader will have a better understanding of the importance of images as a mode of composition. There is a reason the phrase "A picture is worth 1000 words" exists in our culture: because even without text, a picture communicates with a viewer and can elicit an emotional response as well. When we understand how a viewer interprets images, and we recognize what kind of visual markers can help us tell our story to the user, we are able to create a more powerful/convincing piece. 
 <!-- This section should be a paragraph or two discussing what the reader should take away after reading this chapter. -->
