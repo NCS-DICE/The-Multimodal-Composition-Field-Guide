@@ -49,7 +49,7 @@ What I learned was...my social media is definitely a smattering of randomness th
 <!-- Jeff should revise his visual rhetoric section into this area here -->
 ##Best Practices
 
-- Make a plan! Think about what you want the user to feel and experience when interacting with your project. What colors, objects, words, etc. convey your message?
+- Make a plan! Think about what you want the user to feel and experience when interacting with your project. What colors, objects, words, etc. convey your message? Roland Barthes wrote "The Rhetoric of Images" which breaks down the layers in which we interpret them: linguistic meaning, denoted meaning, and symbolic meaning. Understanding these will help you compose a meaningful image: https://faculty.georgetown.edu/irvinem/theory/Barthes-Rhetoric-of-the-image-ex.pdf
 
 - Think about the composition of your images. Ted Forbes has some great tips on line, shape, the rule of thirds, and more: https://www.youtube.com/user/theartofphotography
 
