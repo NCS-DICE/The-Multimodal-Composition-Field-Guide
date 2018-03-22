@@ -16,6 +16,6 @@ _Developed and Maintained by Seattle University students in_ [Digital Technology
 ###Jeff
 ###Emily
 
-Emily is a coffee chugging, animal loving, wannabe superhero/librarian. She lives in the Seattle suburbs with her kid, her dog, and her secret stash of freezer candy.
+Emily is a coffee chugging, animal loving, future librarian and rumored superhero. She works at a community college where she loves helping students meet their goals, and spends her free time with her partner, her kiddo, and her dog. 
 
 
