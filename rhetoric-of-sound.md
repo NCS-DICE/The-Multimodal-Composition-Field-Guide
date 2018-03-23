@@ -1,10 +1,9 @@
 # **Aural Rhetoric**
 
 {{"https://www.youtube.com/embed/JG5OsfOuEy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen"| video }}
-
-
+```
 <iframe src="https://archive.org/embed/StarWarsThemeSongByJohnWilliams" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+```
 
 
 Sound can be very persuasive and create excitement for the audience. The aural rhetoric that I selected to analyze is Star Wars theme song. When I think of the movie franchise Star Wars, I immediately think of the introductory opening crawl sound that has been branded with the name. The opening classical instrumental theme song for Star Wars has become the anthem of the saga at the opening and ending of the film series. The theme has become iconic in American culture and its symbolic meaning is often associated with the future and adventure of technology and space. The theme song starts off with a loud bang of trumpets, taking you on an adventure of sounds, midway it drops to a low classical tempo to once again lead up the excitement with drums and the loud sound of trumpets. The change in sound, instruments, and tempo lead to the triumphal victory of sounds.
