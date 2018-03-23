@@ -7,6 +7,7 @@
 
 Video Rhetoric: EWG Program’s “Setting The Bar Low”
   
+https://vimeo.com/185514494
 
 For my video analysis, I chose “Setting the Bar Low” by Wander on behalf of the Environmental Working Group (EWG). The Environmental Working Group is an organization that researches and “calls out” companies who use questionable chemical compounds in their products. They also have website ranking certain beauty/body care products based on ingredients and potential toxicity. 
   
@@ -19,6 +20,7 @@ Video is an effective mode for this message because it triggers memories of the 
 
 My video: When the tablet’s away, the kids will play.
   
+(insert video)
 
 My son is pretty much the only person in my life that will let me film him willingly. Like many kids, he is pretty tablet/tv/game obsessed. It's been a constant struggle to kind of monitor and limit his use of devices without demonizing them. Honestly, sometimes I’m grateful he’s distracted by them when he’s forced to follow me around to work/study group, but I love watching him play. I guess that’s what I wanted to communicate in my 5 shots: how kids kind of bloom in their play, and they don’t really do that in front of a screen. They are so expressive, energetic, and creative when they actually have to use their brains.
 
