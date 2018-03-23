@@ -20,7 +20,7 @@ Video is an effective mode for this message because it triggers memories of the 
 
 My video: When the tablet’s away, the kids will play.
   
-(insert video)
+https://www.youtube.com/watch?v=WQI6euOaldk
 
 My son is pretty much the only person in my life that will let me film him willingly. Like many kids, he is pretty tablet/tv/game obsessed. It's been a constant struggle to kind of monitor and limit his use of devices without demonizing them. Honestly, sometimes I’m grateful he’s distracted by them when he’s forced to follow me around to work/study group, but I love watching him play. I guess that’s what I wanted to communicate in my 5 shots: how kids kind of bloom in their play, and they don’t really do that in front of a screen. They are so expressive, energetic, and creative when they actually have to use their brains.
 
