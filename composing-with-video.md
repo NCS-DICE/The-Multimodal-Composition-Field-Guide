@@ -1,6 +1,6 @@
 #Composing with Video    
 ##Introduction
-<!-- This section should be an overview of what the modality of video is and why the multimodal composer should be concerned with them. -->
+<!-- This section should be an overview of what the modality of video is and why the multimodal composer should be concerned with them. --> Video can be an effective tool to engage your audience and tell a compelling story about a particular subject. Visual materials are important to western societies and video can help us understand various cultures in a captivating way that can be persuasive. The theory of semiotics helps us to understand how video can be so persuasive, it allows the audience to interpret the images, text, and sound to create meaning and feel a particular way. The following examples will demonstrate how video is working together with images, text, and audio to create meaningful connections and help us make sense of the world.  
 ##Jeff:
 <!-- Jeff should revise his video rhetoric section into this area here -->
 ##Emily:
@@ -26,8 +26,24 @@ My son is pretty much the only person in my life that will let me film him willi
 
 <!-- Emily should revise her video rhetoric section into this area here -->
 ##Marisol:
-<!-- Marisol should revise her video rhetoric section into this area here -->
+Many companies and businesses will use videos as an effective marketing tool to capture their audiences attention and persuade them to buy a product, use their service, or join their team. The following video from Google is about five student summer interns and their thoughts on what it is like to work at Google. The video is interesting and engaging for a college student considering an internship at Google. College students can relate to the interns interviewed because diversity is reflected and their personal interests are also reflected. 
+
+The Google video opens with employees showing how fun it is to work at Google and how it is like a playground. Employees are biking around campus, playing volleyball, table tennis, and eating outdoors on the lawn. Their main speakers says “don’t be afraid to fail, but we want to flip that around a bit and say don’t be afraid to succeed” and the camera zooms in on each of the five interns faces. The story then goes into following each of the interns showing what their job entails and why they enjoy working at Google. They incorporate the 5-point shots to focus on each intern’s personal story and to really help the audience get to know each of the interns on a more personal basis. The b-roll is also a technique in which images and clips of other interesting objects or subjects in they're surrounding environment are incorporated into the interviews. What makes this video so effective is the collection of images, sounds, and text helping to build the affect that it is intending to create for their audience. By the end of the video, Google has been able to establish a relationship and build empathy between the college interns they interviewed and one that interested college students can easily related to in order to persuade them to work at their company.
+https://youtu.be/9No-FiEInLA
+
+To demonstrate just how effective the 5-point shot sequence can be, I created a video of my coworker Julia working at her desk that demonstrates these techniques. Julia is a membership coordinator and her job primarily is supporting nonprofit members and answering their emails. The video of Julia shows the following sequence; a close-up of her hands typing on her laptop, close-up of her face looking at the computer monitor, a side-angle shot of both Julia and the computer monitor, a wide-angle shot over her shoulders, and finally a wide-angle shot that includes a view of her entire workspace. I included audio of her typing but no other audio or sounds because I wanted to focus on Julia as my subject of the video. Collecting all of the various camera angles produces a story that helps to better understand what Julia does for work. 
+https://youtu.be/ndVg3qpTHsQhttps://youtu.be/ndVg3qpTHsQ
+
 ##Best Practices
-<!--Add a section on best practices here. -->
+Some best practices for creating a video:
+1) Define your audience before creating the video
+2) Define: What is your message or story? Write it out into a sequence.
+3) Keep it short and simple by editing what is not necessary to your story.
+4) Use a voice over if you can't get good audio from filming.
+5) Use the b-roll technique to incorporate alternative footage or images to make the story interesting. 
+6) Incorporate the 5-point shot sequence: close-up of the hands, close-up of the face, wide angle shot of the character doing some action, a point of view shot over the character's shoulder, and an unusual or alternative perspective shot. 
+7) Edit and incorporate text or audio if necessary
+
 ##Conclusion
-<!-- This section should be a paragraph or two discussing what the reader should take away after reading this chapter. -->
+
+Videos are engaging and ignite emotions with their audience. It is a powerful modality and one that is becoming widely popular on social media platforms. As demonstrated in the examples, videos can help build trust with a particular company or persuade us to think a particular way about a subject. Videos can have a strong emotional impact because they touch on multiple senses and can have a lasting impact. 
