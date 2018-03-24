@@ -2,7 +2,19 @@
 ##Introduction
 <!-- This section should be an overview of what the modality of sounds is and why the multimodal composer should be concerned with them. -->
 ##Marisol:
+Audio or sounds can be persuasive. Have you ever stopped to hear the sounds of coming home? From the moment you walk home and enter your apartment building, push the elevator button, pull out your keys to unlock the door, turn on the tv, run the dish washer and finally open up a soft drink to end the night. Sounds are all around us from the moment we wake up to the moment we fall into a deep sleep. What do these sounds say about the person, their environment, and their daily routines? How do all these sounds that we produce affect others?
 
+I decided to focus on the sounds that I hear coming home to my studio apartment after a long day of work and school. I live alone in a studio apartment near Green Lake and I love the calm and quiet nature of the neighborhood. Other than the beautiful serene lake it’s probably one of the other main reasons people choose to live in this neighborhood. A few days ago all of the residents in my apartment building received a friendly reminder email from the property manager to kindly keep the noise level down between the hours of 10pm to 7am. I come home late after school or studying at the coffee shop so I was curious to know if I too contribute to the residential noise disturbances. I had never really quite noticed all of the sounds that I produced coming home so I decided to set out to use my audio recorder to capture all of the sounds. 
+
+Click on link to hear audio: https://www.thinglink.com/scene/1033893239171579905 
+
+I began my journey home after school one day and began recording after I parked my car. The sounds of birds chirping and cars passing by greeted me just before I entered the apartment complex. Beep, beep,…beep, were the sounds of my key card scanning the door entrance and elevator keypad. As I walk down the hallway and take out my dangling set of multiple keys to open my apartment door, the door slams behind me, I lock it and hang my purse near the door. 
+
+Click on link to hear audio: https://www.thinglink.com/scene/1033889256776400897 
+
+I walk across the wooden floor in my two inch heel boots, throw the keys on the bed, and open the refrigerator to find some apple juice in a glass container. Quenching for thirst, I open the glass bottle, gulp down the remaining juice, and place the bottle and metal cap on the counter before walking over to load the dishwasher. I turn on the faucet to rinse off the food from the dirty dishes I left in the sink to then place them into the dishwasher for cleaning. I place the dirty dishes into the dishwasher and run the appliance. I walk over to the couch to grab the remote control and turn on the tv. The loud sounds of the running water filling up the dishwasher, soap suds, and turning sounds of the cycle was intrusive to me watching tv even when I turned up the volume on the tv, so I turned it off and decided to read a book instead.
+
+After hearing these collective sounds play back on audio, I came to realize that all of the sounds we produce simply from coming home can have an adverse affect on some people and can disturb their sleep and idea of wanting a quiet residential neighborhood. Some people are more prone to sensory sensitivity or overstimulation to sounds. I can certainly relate, I too have become more sensitive to sounds and overstimulation of sounds. The way I deal with too many sounds is to go for a run without any headphones or I meditate after doing some yoga. When those two solutions are not an option it causes me to feel irritated and annoyed by the sounds when I’m trying to fall asleep. So to be a good neighbor, please be mindful of the collective noise and sounds you produce when coming home. 
 ##Jeff:
 <!-- Jeff should revise his sound rhetoric section into this area here -->
 ##Emily:
