@@ -1,7 +1,8 @@
 #Composing with Images
 ##Introduction
 
-Images allow the composer to communicate with the user through color, text, shape, human facial expression, and more... 
+Images are a mode in which the composer can make a visual rhetorical argument. You can use photo composition, light, shape, color, facial expression, etc. to communicate a message and a feeling to the viewer. Images are a highly powerful mode of communication, many of us can think of a famous photo, painting, print advertisement, or even a logo that had an impact on our lives somehow. Below, our class created examples of images that are meant to have a rhetorical argument.  
+
 <!-- This section should be an overview of what the modality of still images is and why the multimodal composer should be concerned with them. -->
 ##Emily:
 
